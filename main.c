@@ -2,7 +2,7 @@
 
 #include "main.h"
 
-const char *FORMULA      = "10+(1-20)+1";
+const char *FORMULA      = "10+(1-20)+1*2";
 const char *FILE_NAME    = "formula.txt";
 
 int read_term();
